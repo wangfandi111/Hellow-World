@@ -1,1 +1,2 @@
-print('Hellow world')
+def test():
+  print('Hellow world')
